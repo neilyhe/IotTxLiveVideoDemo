@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">IotTxLiveVideoDemo</string>
+    <string name="demo_name">IoT Video</string>
+    <string name="iot_demo_name">IoT Video Demo</string>
+    <string name="iot_test_demo_name">IoT Video TEST</string>
+    <string name="product_id_text">Product ID *</string>
+    <string name="device_name_text">Device Name *</string>
+    <string name="p2p_info_text">P2P INFO *</string>
+    <string name="app_key_text">App Key *</string>
+    <string name="hint_app_key">请输入App Key</string>
+    <string name="app_secret">App Secret *</string>
+    <string name="hint_app_secret">请输入App Secret</string>
+    <string name="multi_device_connection">多设备直连</string>
+    <string name="multi_device_test">多设备测试</string>
+    <string name="hint_p2p_info">请输入P2P INFO</string>
+    <string name="hint_product_id">请输入Product ID</string>
+    <string name="hint_device_name">请输入Device Name</string>
+    <string name="video_quality_high_str">超清</string>
+    <string name="video_quality_medium_str">高清</string>
+    <string name="video_quality_low_str">标清</string>
+    <string name="disconnected_and_reconnecting">%s 通道断开，正在重连</string>
+    <string name="talk">对讲</string>
+    <string name="record">录像</string>
+    <string name="recording">录像中</string>
+    <string name="photo">拍照</string>
+    <string name="preview">预览</string>
+    <string name="playback">回放</string>
+    <string name="login">登录</string>
+
+</resources>
